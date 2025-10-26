@@ -4,7 +4,7 @@ Hello my name is evyatar and I've just joined the Weizmann institute of science.
 
 # Milo lab
 At the Milo Lab, we harness rational design and adaptive lab evolution to find solutions for sustainable energy sources
-(lab link)[https://www.weizmann.ac.il/plants/milo/]
+[lab link](https://www.weizmann.ac.il/plants/milo/)
 
 
 
