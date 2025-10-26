@@ -1,0 +1,69 @@
+/* Simple responsive styling for the profile */
+:root{
+  --max-width: 900px;
+  --accent: #0b6ef6;
+  --bg: #ffffff;
+  --text: #222;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.4;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+.container{
+  max-width:var(--max-width);
+  margin:40px auto;
+  padding:0 20px;
+}
+
+header h1{
+  margin:0 0 18px 0;
+  font-size:1.9rem;
+}
+
+.profile{
+  display:flex;
+  gap:24px;
+  align-items:center;
+  flex-wrap:wrap;
+}
+
+.photo-wrapper{
+  flex:0 0 180px;
+  display:block;
+}
+
+.profile-photo{
+  width:100%;
+  max-width:180px;
+  height:auto;
+  border-radius:12px;
+  object-fit:cover;
+  border:2px solid rgba(0,0,0,0.06);
+  box-shadow: 0 6px 18px rgba(12,40,60,0.08);
+}
+
+.profile-text{
+  flex:1 1 260px;
+}
+
+.tagline{
+  margin:0;
+  font-size:1.1rem;
+  color:#333;
+}
+
+/* small screens */
+@media (max-width:520px){
+  .profile{gap:12px}
+  .photo-wrapper{flex:0 0 140px}
+  .profile-photo{max-width:140px}
+  header h1{font-size:1.4rem}
+}
