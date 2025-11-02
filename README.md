@@ -2,13 +2,13 @@
 Hello my name is evyatar and I've just joined the Weizmann institute of science. I'm doing my first roation at the milo lab.
 [link to my assignment repository](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments)
 
----
+***
 
 # Milo lab
 At the Milo Lab, we harness rational design and adaptive lab evolution to find solutions for sustainable energy sources. 
  [lab link](https://www.weizmann.ac.il/plants/milo/)
  
----
+***
 
 I’m currently working on a project focused on expressing different enzymes to enhance the growth of autotrophic E. coli. The main type of data I generate consists of growth curves of various E. coli strains under different experimental conditions.
 
