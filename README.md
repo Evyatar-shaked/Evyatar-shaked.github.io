@@ -1,6 +1,6 @@
 
 Hello!
-My name is Evyatar Shaked, and I’ve recently joined the Weizmann Institute of Science as an M.Sc. student in Computational Biology track. I’m currently doing my first rotation in the Milo Lab.
+My name is Evyatar Shaked, and I’ve recently joined the Weizmann Institute of Science as an M.Sc. student in The Computational Biology track. I’m currently doing my first rotation in the Milo Lab.
 
 I hold a B.Sc. in Plant Science and Biotechnology from the Hebrew University of Jerusalem, and I have hands-on experience in both molecular biology techniques and data analysis.
 [link to my assignment repository](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments)
